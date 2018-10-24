@@ -22,7 +22,7 @@ class CarSearchAndUI extends Component {
               />
               <SingleRange
                 componentId="ratingsfilter"
-                title="Filter by ratings"
+                title="I'm still working on this web-app. THE LOGIN/PASSWORD are user/user"
                 dataField="rating"
                 data={[
                   {"start": "4", "end": "5", "label": "4 stars and up"},
